@@ -20,7 +20,7 @@ These features describe the code supplied; actual geometry, performance and comp
 
 ## Installation
 
-1. Download the release ZIP without extracting it.
+1. Download [Oliver_Kogi_Stairs_Addon_7.4.0.zip](Oliver_Kogi_Stairs_Addon_7.4.0.zip) from this repository without extracting it.
 2. In Blender, open **Edit → Preferences → Add-ons**, then open the top-right menu and choose **Install from Disk**.
 3. Select the ZIP and enable **Parametric Stairs from Planes**. If an older copy is installed, disable or remove it first to avoid registration conflicts.
 4. In the 3D Viewport press **N**, then open the **Stairs** tab.
